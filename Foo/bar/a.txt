@@ -1,0 +1,5 @@
+1- git clone --no-checkout --depth 1 --filter=blob:none --sparse -b development --sparse https://github.com/Khaled-eurofins/Test.git
+2- git sparse-checkout init --no-cone
+3- git sparse-checkout set (folder-path)
+4- git sparse-checkout add (folder-path)
+5- git checkout branchName
