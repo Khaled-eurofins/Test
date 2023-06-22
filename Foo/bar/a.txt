@@ -4,5 +4,3 @@
 4- git sparse-checkout add (folder-path)
 5- git checkout branchName
 
-
-Thissms
