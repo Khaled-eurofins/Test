@@ -3,5 +3,5 @@
 3- git sparse-checkout set (folder-path)
 4- git sparse-checkout add (folder-path)
 5- git checkout branchName
-
-Hello againsad
+s
+Hello againsadss
