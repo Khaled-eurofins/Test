@@ -3,6 +3,6 @@
 var repoName = "Test";
 var rootDirectory = "C:\\Git Test\\test";
 var branchName = "development";
-var sourcePath = "Foo/foo";
+var sourcePath = "Foo/bar";
 
 
