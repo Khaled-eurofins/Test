@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hello From my computer!
-=======
-Hello there!
->>>>>>> f23b2b6304008f9586ca20c4372705c902aa90ac
