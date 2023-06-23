@@ -1,2 +1,6 @@
 aasasssd
+<<<<<<< HEAD
 Ahmad
+=======
+Khaled
+>>>>>>> 59c83231d3d59dba3d0ae29f5ec4f0ce6d5da8be
